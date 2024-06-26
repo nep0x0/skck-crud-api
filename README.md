@@ -2,7 +2,7 @@
 
 This project serves as my portfolio for demonstrating my skills in web development.
 
-## About the Project
+## About the Projects
 
 This project is a CRUD application for SKCK (Surat Keterangan Catatan Kepolisian), allowing users to manage and process SKCK applications efficiently. It includes functionalities such as creating, reading, updating, and deleting SKCK records.
 
